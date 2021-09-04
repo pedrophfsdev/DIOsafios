@@ -1,0 +1,16 @@
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\bin\Debug\net5.0\NumerosImpares.exe
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\bin\Debug\net5.0\NumerosImpares.deps.json
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\bin\Debug\net5.0\NumerosImpares.runtimeconfig.json
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\bin\Debug\net5.0\NumerosImpares.runtimeconfig.dev.json
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\bin\Debug\net5.0\NumerosImpares.dll
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\bin\Debug\net5.0\ref\NumerosImpares.dll
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\bin\Debug\net5.0\NumerosImpares.pdb
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.csproj.AssemblyReference.cache
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.AssemblyInfoInputs.cache
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.AssemblyInfo.cs
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.csproj.CoreCompileInputs.cache
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.dll
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\obj\Debug\net5.0\ref\NumerosImpares.dll
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.pdb
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.genruntimeconfig.cache

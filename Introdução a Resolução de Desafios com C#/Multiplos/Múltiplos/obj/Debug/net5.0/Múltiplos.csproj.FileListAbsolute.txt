@@ -1,0 +1,15 @@
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\Múltiplos\Múltiplos\bin\Debug\net5.0\Múltiplos.exe
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\Múltiplos\Múltiplos\bin\Debug\net5.0\Múltiplos.deps.json
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\Múltiplos\Múltiplos\bin\Debug\net5.0\Múltiplos.runtimeconfig.json
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\Múltiplos\Múltiplos\bin\Debug\net5.0\Múltiplos.runtimeconfig.dev.json
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\Múltiplos\Múltiplos\bin\Debug\net5.0\Múltiplos.dll
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\Múltiplos\Múltiplos\bin\Debug\net5.0\ref\Múltiplos.dll
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\Múltiplos\Múltiplos\bin\Debug\net5.0\Múltiplos.pdb
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\Múltiplos\Múltiplos\obj\Debug\net5.0\Múltiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\Múltiplos\Múltiplos\obj\Debug\net5.0\Múltiplos.AssemblyInfoInputs.cache
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\Múltiplos\Múltiplos\obj\Debug\net5.0\Múltiplos.AssemblyInfo.cs
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\Múltiplos\Múltiplos\obj\Debug\net5.0\Múltiplos.csproj.CoreCompileInputs.cache
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\Múltiplos\Múltiplos\obj\Debug\net5.0\Múltiplos.dll
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\Múltiplos\Múltiplos\obj\Debug\net5.0\ref\Múltiplos.dll
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\Múltiplos\Múltiplos\obj\Debug\net5.0\Múltiplos.pdb
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\Múltiplos\Múltiplos\obj\Debug\net5.0\Múltiplos.genruntimeconfig.cache

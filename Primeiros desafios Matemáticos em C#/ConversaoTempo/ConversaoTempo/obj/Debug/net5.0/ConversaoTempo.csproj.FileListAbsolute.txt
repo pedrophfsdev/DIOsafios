@@ -1,0 +1,15 @@
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\ConversaoTempo\ConversaoTempo\bin\Debug\net5.0\ConversaoTempo.exe
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\ConversaoTempo\ConversaoTempo\bin\Debug\net5.0\ConversaoTempo.deps.json
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\ConversaoTempo\ConversaoTempo\bin\Debug\net5.0\ConversaoTempo.runtimeconfig.json
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\ConversaoTempo\ConversaoTempo\bin\Debug\net5.0\ConversaoTempo.runtimeconfig.dev.json
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\ConversaoTempo\ConversaoTempo\bin\Debug\net5.0\ConversaoTempo.dll
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\ConversaoTempo\ConversaoTempo\bin\Debug\net5.0\ref\ConversaoTempo.dll
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\ConversaoTempo\ConversaoTempo\bin\Debug\net5.0\ConversaoTempo.pdb
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\ConversaoTempo\ConversaoTempo\obj\Debug\net5.0\ConversaoTempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\ConversaoTempo\ConversaoTempo\obj\Debug\net5.0\ConversaoTempo.AssemblyInfoInputs.cache
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\ConversaoTempo\ConversaoTempo\obj\Debug\net5.0\ConversaoTempo.AssemblyInfo.cs
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\ConversaoTempo\ConversaoTempo\obj\Debug\net5.0\ConversaoTempo.csproj.CoreCompileInputs.cache
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\ConversaoTempo\ConversaoTempo\obj\Debug\net5.0\ConversaoTempo.dll
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\ConversaoTempo\ConversaoTempo\obj\Debug\net5.0\ref\ConversaoTempo.dll
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\ConversaoTempo\ConversaoTempo\obj\Debug\net5.0\ConversaoTempo.pdb
+C:\DIOsafios\Primeiros desafios Matemáticos em C#\ConversaoTempo\ConversaoTempo\obj\Debug\net5.0\ConversaoTempo.genruntimeconfig.cache
